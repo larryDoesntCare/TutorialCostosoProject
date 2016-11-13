@@ -2,6 +2,8 @@
 
     Sub RunCode(sender As Object, e As RoutedEventArgs)
         'Add code here
+        Output(txtInput.Text)
+
     End Sub
 
     Sub Output(Value As String)
