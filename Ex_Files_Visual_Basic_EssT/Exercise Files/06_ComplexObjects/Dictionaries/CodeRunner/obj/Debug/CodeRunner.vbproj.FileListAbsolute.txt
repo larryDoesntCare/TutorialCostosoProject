@@ -94,3 +94,17 @@ C:\Users\David\Desktop\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\
 C:\Users\David\Desktop\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.exe
 C:\Users\David\Desktop\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.xml
 C:\Users\David\Desktop\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.xml
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\bin\Debug\CodeRunner.xml
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\MainWindow.g.vb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\Application.g.vb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.Resources.resources
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\06_ComplexObjects\Dictionaries\CodeRunner\obj\Debug\CodeRunner.vbproj.GenerateResource.Cache

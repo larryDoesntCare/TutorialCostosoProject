@@ -1,6 +1,8 @@
 ﻿Class MainWindow
 
-    Dim states As Collection = New Collection()
+    Dim states As Dictionary(Of String, String) =
+        New Dictionary(Of String, String)()
+
 
     Sub Output(Value As String)
         txtOutput.Text += Value + vbCrLf
@@ -14,9 +16,9 @@
 
         states.Clear()
 
-        states.Add("California", "CA")
-        states.Add("Oregon", "OR")
-        states.Add("Washington", "WA")
+        states.Add("CA", "California")
+        states.Add("OR", "Oregon")
+        states.Add("WA", "Washington")
 
         OutputStates()
 
@@ -24,7 +26,7 @@
 
     Private Sub btnGet_Click(sender As Object, e As RoutedEventArgs) Handles btnGet.Click
         Dim stateID As String = txtInput.Text
-        If states.Contains(stateID) Then
+        If states.ContainsKey(stateID) Then
             Output("You requested: " + states.Item(stateID))
         Else
             Output("Not found")
@@ -33,7 +35,7 @@
 
     Private Sub btnRemove_Click(sender As Object, e As RoutedEventArgs) Handles btnRemove.Click
         Dim stateID As String = txtInput.Text
-        If states.Contains(stateID) Then
+        If states.ContainsKey(stateID) Then
             states.Remove(stateID)
             txtOutput.Text = ""
             Output(stateID + " removed; here's what's left:")
@@ -48,8 +50,8 @@
     End Sub
 
     Sub OutputStates()
-        For Each state As String In states
-            Output(state)
+        For Each state In states
+            Output(state.ToString())
         Next
     End Sub
 
