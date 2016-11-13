@@ -1,18 +1,27 @@
-﻿Class MainWindow 
+﻿Class MainWindow
+
+    Dim names As ArrayList = New ArrayList()
 
     Sub RunCode(sender As Object, e As RoutedEventArgs)
         'Add code here
-        Dim o As Object = New Object()
-        If IsNothing(o) Then
-            Output("No object exists")
-        Else
-            Output("Before assignment to value: " + o.GetType().ToString())
-        End If
+        'Dim fruits() As String = {"Apple", "Orange", "Pear"}
+        'Output("the number of fruits is : " + fruits.Length.ToString())
 
-        o = 1
-        Output("As Number : " + o.GetType().ToString())
-        o = "Green"
-        Output("As String : " + o.GetType().ToString())
+        'Dim vegetable(2) As String
+        'vegetable(0) = "Potato"
+        'vegetable(1) = "Lettuce"
+        'For veg As Integer = 0 To vegetable.Length - 1
+        '    Dim vegName As String = vegetable(veg)
+        '    Output(vegName)
+        'Next
+        names.Add(txtInput.Text)
+        txtOutput.Text = ""
+        txtInput.Text = ""
+        For Each newName In names
+
+            Output(newName)
+        Next
+
 
     End Sub
 
