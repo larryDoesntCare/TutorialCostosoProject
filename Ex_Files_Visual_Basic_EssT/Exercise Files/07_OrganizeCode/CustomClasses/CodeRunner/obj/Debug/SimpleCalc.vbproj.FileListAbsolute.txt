@@ -26,3 +26,7 @@ C:\Users\David\Desktop\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Deb
 C:\Users\David\Desktop\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner.g.resources
 C:\Users\David\Desktop\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner.Resources.resources
 C:\Users\David\Desktop\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\SimpleCalc.vbproj.GenerateResource.Cache
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\CustomClasses\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\CustomClasses\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\CustomClasses\CodeRunner\obj\Debug\CodeRunner.xml
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\CustomClasses\CodeRunner\obj\Debug\CodeRunner.pdb

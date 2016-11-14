@@ -1,10 +1,12 @@
-﻿Class MainWindow
+﻿Imports CodeRunner.Utility
+Class MainWindow
 
     Const ADD As String = "Add"
     Const SUBTRACT As String = "Subtract"
     Const MULTIPLY As String = "Multiply"
     Const DIVIDE As String = "Divide"
 
+    Dim calc As CalcUtility = New CalcUtility()
     Sub Calculate(operation As String)
 
         Dim str1 As String = txtInput1.Text
@@ -23,13 +25,13 @@
         Dim result As Double
         Select Case operation
             Case ADD
-                result = CalcUtility.AddValues(dbl1, dbl2)
+                result = calc.AddValues(dbl1, dbl2)
             Case SUBTRACT
-                result = CalcUtility.SubtractValues(dbl1, dbl2)
+                result = calc.SubtractValues(dbl1, dbl2)
             Case MULTIPLY
-                result = CalcUtility.MultiplyValues(dbl1, dbl2)
+                result = calc.MultiplyValues(dbl1, dbl2)
             Case DIVIDE
-                result = CalcUtility.DivideValues(dbl1, dbl2)
+                result = calc.DivideValues(dbl1, dbl2)
                 If Double.IsPositiveInfinity(result) Or
                     Double.IsNegativeInfinity(result) Then
                     DisplayError("Divide by zero")

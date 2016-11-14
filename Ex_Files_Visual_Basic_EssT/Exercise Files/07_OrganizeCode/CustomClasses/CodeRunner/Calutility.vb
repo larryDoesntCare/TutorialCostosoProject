@@ -1,4 +1,4 @@
-﻿Public Class CalcUtility
+﻿Public Class Calutility
     Public Shared Function AddValues(dbl1 As Double, dbl2 As Double) As Double
         Return dbl1 + dbl2
     End Function

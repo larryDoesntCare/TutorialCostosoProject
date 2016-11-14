@@ -23,13 +23,13 @@
         Dim result As Double
         Select Case operation
             Case ADD
-                result = AddValues(dbl1, dbl2)
+                result = Calutility.AddValues(dbl1, dbl2)
             Case SUBTRACT
-                result = SubtractValues(dbl1, dbl2)
+                result = Calutility.SubtractValues(dbl1, dbl2)
             Case MULTIPLY
-                result = MultiplyValues(dbl1, dbl2)
+                result = Calutility.MultiplyValues(dbl1, dbl2)
             Case DIVIDE
-                result = DivideValues(dbl1, dbl2)
+                result = Calutility.DivideValues(dbl1, dbl2)
                 If Double.IsPositiveInfinity(result) Or
                     Double.IsNegativeInfinity(result) Then
                     DisplayError("Divide by zero")
