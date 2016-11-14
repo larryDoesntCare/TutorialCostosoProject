@@ -12,3 +12,18 @@ C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj
 C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.exe
 C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.xml
 C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner.xml
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\bin\Debug\CodeRunner.xml
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\SimpleCalc.vbprojResolveAssemblyReference.cache
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\MainWindow.g.vb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\Application.g.vb
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\CodeRunner.Resources.resources
+C:\Users\Larry Liu\Documents\GitHub\TutorialCostosoProject\Ex_Files_Visual_Basic_EssT\Exercise Files\07_OrganizeCode\Modules\CodeRunner\obj\Debug\SimpleCalc.vbproj.GenerateResource.Cache

@@ -23,13 +23,13 @@
         Dim result As Double
         Select Case operation
             Case ADD
-                result = dbl1 + dbl2
+                result = AddValue(dbl1, dbl2)
             Case SUBTRACT
-                result = dbl1 - dbl2
+                result = SubValue(dbl1, dbl2)
             Case MULTIPLY
-                result = dbl1 * dbl2
+                result = MulValue(dbl1, dbl2)
             Case DIVIDE
-                result = dbl1 / dbl2
+                result = DivValue(dbl1, dbl2)
                 If Double.IsPositiveInfinity(result) Or
                     Double.IsNegativeInfinity(result) Then
                     DisplayError("Divide by zero")
